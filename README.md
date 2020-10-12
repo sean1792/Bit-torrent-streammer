@@ -3,7 +3,7 @@
 
 NOTE:You should change path for this code
 
-a simple streammer to stream video or music by bittorrent.
+a simple streammer to stream video or music via bittorrent.
 
 ### tracker.py
 use tracker.py to setup a pirate tracker server. If you don't need personal tracker, just skip this.
